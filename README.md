@@ -1,2 +1,1 @@
-# Clash-Download
-Clash下载软件教程分享
+# Clash下载软件教程分享
